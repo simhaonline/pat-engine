@@ -1,0 +1,21 @@
+[arch] Detected Windows architecture: AMD64 â agent build: amd64
+
+==========================================
+  Predict-A-Trade XAUUSD â Installer v1.2.40
+==========================================
+
+[1/9] Ready
+[2/9] Creating installation directory...
+  OK: C:\PredictATrade\Client
+[2a/9] Applying Windows Defender exclusions (pre-download)...
+  OK: Windows Defender exclusions applied (pre-download).
+  OK: Engine URL (Client Agent (execution)) = wss://live.predictatrade.com/ws/v1/agent
+  OK: Local health port = 9000
+  OK: Control API URL = https://api.predictatrade.com/api/v1
+  OK: Auto-update service name = pat-agent-client
+  OK: Agent log dir = C:\PredictATrade\Client\logs
+[3/9] Stopping existing service if running...
+  OK: Service stopped
+[4/9] Waiting for processes...
+  OK
+[5/9] Downloading pat-agent.exe...
